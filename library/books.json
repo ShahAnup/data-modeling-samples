@@ -10,9 +10,9 @@
   "longTitle": "The Surgeon's Mate (Aubrey/Maturin)",
   "bookOfTheMonth": null,
   "tags": "writing style,travel,dystopian fiction",
-  "publisherId": 1352,
-  "bindingId": 6,
-  "languageId": 1
+  "publisher": ["Fireside Books","Arsenal Pulp Press","Green Books","ethany House Publishers"],
+  "binding": ["Board book","Library Binding","Cards","Turtleback","Unbound","Looseleaf",],
+  "language": ["Malay","Romanian","Malayalam"] 
 },
 {
   "id": "1883577039",
