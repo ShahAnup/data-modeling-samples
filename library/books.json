@@ -33,6 +33,14 @@
       "name": "hindi"
     },
   ]
+  "genre":["g1","g2","g3"]
+  "author":[
+    {
+      "id":1,
+      "name":"aut1",
+      "alias": ["alias1","alias2"]
+    }
+  ]
 },
 {
   "id": "1883577039",
