@@ -10,9 +10,29 @@
   "longTitle": "The Surgeon's Mate (Aubrey/Maturin)",
   "bookOfTheMonth": null,
   "tags": "writing style,travel,dystopian fiction",
-  "publisherId": 1352,
-  "bindingId": 6,
-  "languageId": 1
+  "publisher": [
+    {
+      "Id": 1,
+      "name": "pub1"
+    },
+    {
+      "Id": 2,
+      "name": "pub2"
+    }
+  ]
+  "binding": ["type1","type2","type3"],
+  "language": [
+    {
+      "id": 1,
+      "iso": "eng",
+      "name": "english"
+    },
+    {
+      "id": 2,
+      "iso": "hind",
+      "name": "hindi"
+    },
+  ]
 },
 {
   "id": "1883577039",
